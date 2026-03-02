@@ -1,1 +1,9 @@
-# A9
+<!DOCTYPE html>
+<html lang=""eng"
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"content="width=device-width,intial-scale=1.0">
+  <tittle>student Registration form</tittle>
+  <style><body>
+    
+  
